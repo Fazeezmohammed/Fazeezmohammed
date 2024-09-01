@@ -1,4 +1,4 @@
-# Mohammed Fazeez
+# Mohammed Fazeez.A
 # 💫 About Me:
 I recently completed a post-graduate course in Data Science from Imarticus and am currently seeking an entry-level role in the field where I can leverage my technical expertise and analytical skills to drive innovative solutions and contribute to data-driven decision-making processes. I'm also working on gaining knowledge in generative AI.
 
